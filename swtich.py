@@ -1,3 +1,5 @@
+#Código usado no desafio, com objetivo de printar o ELO do herói
+
 nome = "joao"
 rank = ""
 xp = 4658
@@ -21,3 +23,4 @@ match xp:
         rank = "Imortal"
 
 print(rank)
+
